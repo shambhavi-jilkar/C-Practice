@@ -1,2 +1,3 @@
 # C-Practice
-Practice programs for C language
+Practice program for C language : Finding the factorial of a number using recursion
+
